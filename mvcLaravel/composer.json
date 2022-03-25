@@ -1,0 +1,11 @@
+{
+    "name": "ramata/mvc-laravel",
+    
+    "authors": [
+        {
+            "name": "Ramata",
+            "email": "ramataka81@gmail.com"
+        }
+    ],
+    "require": {}
+}
